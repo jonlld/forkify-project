@@ -132,7 +132,7 @@ const controlAddRecipe = async function (newRecipe) {
 };
 
 const newFeature = function () {
-  alert('Welcome to the application');
+  console.log('Welcome to the application');
 };
 
 // Publisher-subscriber pattern - pass in the function so view can call it
