@@ -1,5 +1,5 @@
-# forkify Project
+# forkify
 
-Recipe application with custom recipe uploads.
+Learning / educational project for vanilla JS.
 
-Learning project.
+Recipe application accessing recipies on third-party API, with the option to bookmark and add custom recipes.
